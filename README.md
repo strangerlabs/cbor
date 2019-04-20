@@ -8,6 +8,8 @@
 
 TODO: Fill out this long description.
 
+This library is largely based on [ARMmbed/cbor-sync](https://github.com/ARMmbed/cbor-sync).
+
 ## Table of Contents
 
 - [CBOR _(@strangerlabs/cbor)_](#cbor-strangerlabscbor)
@@ -48,3 +50,4 @@ Small note: If editing the README, please conform to the [standard-readme](https
 ## License
 
 MIT © 2019 Stranger Labs, Inc.
+MIT © 2014 ARM Ltd.
