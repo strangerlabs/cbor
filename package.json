@@ -1,0 +1,29 @@
+{
+  "name": "@strangerlabs/cbor",
+  "version": "0.0.0",
+  "description": "An ArrayBuffer implementation of CBOR for JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "nyc _mocha test",
+    "jsdoc": "jsdoc -c jsdoc.json -r",
+    "coverage": "nyc --reporter=lcov _mocha test"
+  },
+  "author": "Stranger Labs, Inc.",
+  "contributors": [
+    {
+      "name": "Greg Linklater",
+      "email": "greg@gryphus.io",
+      "url": "https://github.com/EternalDeiwos"
+    }
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "cbor": "^4.1.5",
+    "cbor-sync": "^1.0.3",
+    "chai": "^4.2.0",
+    "codecov": "^3.3.0",
+    "jsdoc": "^3.5.5",
+    "mocha": "^6.1.4",
+    "nyc": "^14.0.0"
+  }
+}
