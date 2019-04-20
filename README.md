@@ -50,4 +50,5 @@ Small note: If editing the README, please conform to the [standard-readme](https
 ## License
 
 MIT © 2019 Stranger Labs, Inc.
+
 MIT © 2014 ARM Ltd.
